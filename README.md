@@ -3,8 +3,7 @@ Repositorio de everpeak, sprint 7
 TripleTen
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)[
-](https://colab.research.google.com/drive/1a4HZ0tpa_2DEmvW_oBtfPY7CMBCZbYJV#scrollTo=FheYeZF2L5Ue)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 O:
 
 1. Abre el archivo `.ipynb` en GitHub
